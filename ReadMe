@@ -1,0 +1,4 @@
+In this project made with school I had to do a reader and generator of QR code.
+In the project we can also find image handling.
+We were asked to code one innovation, so I decided to extend the project to every kind of image, regardless of it's size or number of pixels.
+This also alowed us to hide code in image that can't be seen by the eye.
