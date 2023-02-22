@@ -7,7 +7,7 @@ using ReedSolomon;
 
 namespace nom
 {
-//eeee
+//eeeelllll
     public class QR_code
     {
         private string mot;
